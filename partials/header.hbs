@@ -1,15 +1,9 @@
 <header class='js-header c-header'>
   <div class='o-grid o-grid--center'>
     <div class='o-grid__col o-grid__col--3-4-s o-grid__col--3-4-m o-grid__col--1-3-l'>
-      <div class='c-logo'>
-        {{#if @site.logo}}
-          <a href='{{ @site.url }}'>
-            <img class='c-logo__img' src='{{ @site.logo }}' alt='{{ @site.title }}'>
-          </a>
-        {{else}}
-          <a class='c-logo__link' href='{{ @site.url }}'>{{ @site.title }}</a>
-        {{/if}}
-      </div>
+    <a href='{{ @site.url }}' class='c-logo'>
+      <span class='u-hidden-visually'>{{ @site.title }}</span>
+    </a>
     </div>
 
     <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-3-l'>
