@@ -1,0 +1,20 @@
+[{
+    "from": "/meet/" ,
+    "to":  "https://calendly.com/ghuntley/officehours/",
+    "permanent": true
+},
+{
+    "from": "/lately/" ,
+    "to":  "/now/",
+    "permanent": true
+},
+{
+    "from": "/talks/" ,
+    "to":  "/speaking/",
+    "permanent": true
+},
+{
+    "from": "/support/" ,
+    "to":  "https://github.com/users/ghuntley/sponsorship/",
+    "permanent": true
+}]
