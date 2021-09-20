@@ -34,7 +34,7 @@
   "Log out": "Log out",
   "Continue": "Continue",
   "Subscribe": "Newsletter",
-  "Subscribe Now": "Subscribe Now",
+  "Subscribe Now": "Join Newsletter",
   "Your email address": "Your email address",
   "Please check your inbox and click the link to complete the login.": "Please check your inbox and click the link to complete the login.",
   "Please check your inbox and click the link to confirm your subscription.": "Please check your inbox and click the link to confirm your subscription.",
@@ -52,9 +52,9 @@
   "Don't have an account yet?": "Don't have an account yet?",
 
   "This post is for paying subscribers only": "This post is for paying subscribers only",
-  "This post is for subscribers only": "This post is for subscribers only",
+  "This post is for subscribers only": "This post is for newsletter subscribers only",
   "This page is for paying subscribers only": "This page is for paying subscribers only",
-  "This page is for subscribers only": "This page is for subscribers only",
+  "This page is for subscribers only": "This page is for newsletter subscribers only",
 
   "Join the newsletter to receive the latest updates in your inbox.": "Join the newsletter to receive the latest updates in your inbox.",
 
